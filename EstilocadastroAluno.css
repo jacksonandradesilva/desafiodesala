@@ -18,5 +18,18 @@ background-color: beige;
     width:320px;
     height:270px;
   }
+
+  #container {
+background-color: bisque;
+margin: 0 auto;
+width: 960px;
+padding: 10px;
+
+  }
+
+  ul li {
+    list-style: none;
+    margin-bottom: 5px;
+  }
   
 
