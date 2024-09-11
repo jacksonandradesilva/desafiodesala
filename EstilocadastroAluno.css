@@ -11,4 +11,12 @@ fieldset
 {
 background-color: beige;
 }
+.fit-picture {
+    position:relative;
+    left:37%;
+    top:15%;
+    width:320px;
+    height:270px;
+  }
+  
 
